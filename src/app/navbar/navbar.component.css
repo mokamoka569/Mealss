@@ -1,0 +1,11 @@
+.navbar-brand img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.test {
+    background-color: #0dcaf0;
+    border-radius: 25px;
+    color: black;
+}
